@@ -1,6 +1,6 @@
 import time
 
-PLAY_SELF = 0
+PLAY_SELF = True
 
 HEADLESS = True and not PLAY_SELF
 
