@@ -327,5 +327,5 @@ class OrbCatchingGame:
 
 
 if __name__ == "__main__":
-    game = OrbCatchingGame()
+    game = OrbCatchingGame(level=3)
     game.on_execute()
